@@ -1,0 +1,8 @@
+{
+  "bpkg-test-package-bin-force-global",
+  "version": "0.0.1",
+  "bin": {
+    "test": "./test.sh",
+  },
+  "global": 1
+}
